@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RepasEnroute/static/css/main.ca048f2e.css",
+    "main.js": "/RepasEnroute/static/js/main.306b8c54.js",
+    "static/js/453.29a59026.chunk.js": "/RepasEnroute/static/js/453.29a59026.chunk.js",
+    "index.html": "/RepasEnroute/index.html",
+    "main.ca048f2e.css.map": "/RepasEnroute/static/css/main.ca048f2e.css.map",
+    "main.306b8c54.js.map": "/RepasEnroute/static/js/main.306b8c54.js.map",
+    "453.29a59026.chunk.js.map": "/RepasEnroute/static/js/453.29a59026.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca048f2e.css",
+    "static/js/main.306b8c54.js"
+  ]
+}
